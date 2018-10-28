@@ -10,7 +10,7 @@ VERSION="1.0"
 
 #=============================================================================
 # Liste des applications à installer: A adapter a vos besoins
-LISTE="git default-jdk default-jre cmake make apache2 mariadb-server php5.6 perl libcgi-pm-perl ruby python apache2-utils libapache2-mod-authnz-external pwauth phpmyadmin php-mbstring php-gettext"
+LISTE="git default-jdk default-jre cmake make apache2 mariadb-server php7.2 perl libcgi-pm-perl ruby python apache2-utils libapache2-mod-authnz-external pwauth phpmyadmin php-mbstring php-gettext"
 #=============================================================================
 
 # Test que le script est lance en root
